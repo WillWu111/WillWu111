@@ -6,4 +6,5 @@
 
 🎥 I am now a research intern at **Shanghai Jiao Tong University (SJTU)** under [Prof. Songhua Liu](https://scholar.google.com/citations?user=AnYh2rAAAAAJ&hl=en), where I work on **super-resolution video generation**, covering both **training-based** and **training-free** paradigms, with an emphasis on **efficiency** ⚡.
 
-<span style="color:red">I am actively seeking for a 26 Fall / 27 Spring Ph.D. opportunity.</span>
+🎓 <font color="red"><b>I am actively seeking a 26 Fall / 27 Spring Ph.D. opportunity.</b></font>
+
