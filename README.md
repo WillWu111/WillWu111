@@ -1,4 +1,4 @@
-### About Me
+### 👋 Hi, I’m Yunfeng Wu.
 
 🎓 I am a BSc student in **Information and Computing Science** at **Xi’an Jiaotong-Liverpool University (XJTLU)** in Suzhou.
 
