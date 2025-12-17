@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Yunfeng Wu.
 
-🎓 I am a BSc student in **Information and Computing Science** at **Xi’an Jiaotong-Liverpool University (XJTLU)** in Suzhou.
+🎓 I am a BSc student in **Information and Computing Science** at **University of Liverpool**.
 
 🧠 My research interests lie in **computer vision** and **efficient deep learning**. I initially focused on some traditional fields of computer vision, like **2D object detection** and **2D human pose estimation** under the supervision of [Prof. Yong Yue](https://scholar.google.com/citations?user=HXU7M0kAAAAJ&hl=en).
 
