@@ -6,7 +6,7 @@
 
 🎥 Then, I was a research intern at **Shanghai Jiao Tong University (SJTU)** under [Songhua Liu](https://scholar.google.com/citations?user=AnYh2rAAAAAJ&hl=en), where I work on **super-resolution video generation**, covering both **training-based** and **training-free** paradigms, with an emphasis on **efficiency** ⚡.
 
-Now, I was a research intern at **AMAP, Alibaba** under [Jiahong Wu]https://scholar.google.com/citations?user=zCljkooAAAAJ&hl=zh-CN), where I work on **multishot video generation**, with an emphasis on **memory** ⚡.
+Now, I was a research intern at **AMAP, Alibaba** under [Jiahong Wu](https://scholar.google.com/citations?user=zCljkooAAAAJ&hl=zh-CN), where I work on **multishot video generation**, with an emphasis on **memory** ⚡.
 
 🎓 <font color="red"><b>I am actively seeking a 26 / 27 Ph.D. opportunity.</b></font>
 
